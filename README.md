@@ -1,7 +1,7 @@
 # Task 3 – SQL for Data Analysis (Elevate Labs Internship)
 
 
-##This task includes basic SQL operations such as:
+This task includes basic SQL operations such as:
 - Creating tables
 - Inserting sample data
 - SELECT, WHERE, ORDER BY
@@ -16,3 +16,7 @@
 
 ## Tool Used
 MySQL Workbench
+
+## Result
+- A complete and clear SQL analysis with all required queries and outputs.
+
